@@ -3,11 +3,18 @@ sidebar: true
 
 -- ds.page.right-sidebar:
 
--- ds.h3: Heading in sidebar
+-- ds.h3: Her-Health
+style: "color: #FF69B4;"  # Set the color for the heading
+font-size: 20px;          # Set the font size for the heading
 
-You can call any component inside sidebar. 
+Welcome to Her-Health, your all-in-one women's health platform.
 
-This right-sidebar will appear on all pages.
+Here's what we offer:
+
+- Expert Gynecologists
+- Maternity Care
+- Family Planning
+- Women's Wellness Programs
 
 -- ds.code:
 lang: ftd
@@ -18,8 +25,7 @@ lang: ftd
 
 -- ds.page.body:
 
-If you want to show right-sidebar on your page you can add it like sidebar shown
-in this page 👉.
+If you want to show right-sidebar on your page, you can add it like the sidebar shown in this page 👉.
 
 -- ds.h3: `right-sidebar` documentation
 
@@ -28,7 +34,7 @@ more about `right-sidebar`.
 
 -- ds.h3: How this page is built?
 
-Copy below code snippet to create pages like this with right-sidebar.
+Copy the below code snippet to create pages like this with a right-sidebar.
 
 -- ds.code:
 lang: ftd
@@ -38,11 +44,18 @@ sidebar: true
 
 \-- ds.page.right-sidebar:
 
-\-- ds.h3: Heading in sidebar
+\-- ds.h3: Her-Health
+style: "color: #FF69B4;"  # Set the color for the heading
+font-size: 20px;          # Set the font size for the heading
 
-You can call any component inside sidebar. 
+Welcome to Her-Health, your all-in-one women's health platform.
 
-This right-sidebar will appear on all pages.
+Here's what we offer:
+
+- Expert Gynecologists
+- Maternity Care
+- Family Planning
+- Women's Wellness Programs
 
 \-- ds.code:
 lang: ftd
@@ -53,8 +66,7 @@ lang: ftd
 
 \-- ds.page.body:
 
-If you want to show right-sidebar on your page you can add it like sidebar shown
-in this page 👉.
+If you want to show right-sidebar on your page, you can add it like the sidebar shown in this page 👉.
 
 \-- ds.h3: Read right-sidebar documentation
 
