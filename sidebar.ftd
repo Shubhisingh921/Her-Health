@@ -3,15 +3,11 @@ sidebar: true
 
 -- ds.page.right-sidebar:
 
--- ds.h3: Her-Health
-Welcome to Her-Health, your all-in-one women's health platform.
+-- ds.h3: Heading in sidebar
 
-Here's what we offer:
+You can call any component inside sidebar. 
 
-- Expert Gynecologists
-- Maternity Care
-- Family Planning
-- Women's Wellness Programs
+This right-sidebar will appear on all pages.
 
 -- ds.code:
 lang: ftd
@@ -22,7 +18,8 @@ lang: ftd
 
 -- ds.page.body:
 
-If you want to show right-sidebar on your page, you can add it like the sidebar shown in this page 👉.
+If you want to show right-sidebar on your page you can add it like sidebar shown
+in this page 👉.
 
 -- ds.h3: `right-sidebar` documentation
 
@@ -31,7 +28,7 @@ more about `right-sidebar`.
 
 -- ds.h3: How this page is built?
 
-Copy the below code snippet to create pages like this with a right-sidebar.
+Copy below code snippet to create pages like this with right-sidebar.
 
 -- ds.code:
 lang: ftd
@@ -41,17 +38,11 @@ sidebar: true
 
 \-- ds.page.right-sidebar:
 
-\-- ds.h3: Her-Health
+\-- ds.h3: Heading in sidebar
 
+You can call any component inside sidebar. 
 
-Welcome to Her-Health, your all-in-one women's health platform.
-
-Here's what we offer:
-
-- Expert Gynecologists
-- Maternity Care
-- Family Planning
-- Women's Wellness Programs
+This right-sidebar will appear on all pages.
 
 \-- ds.code:
 lang: ftd
@@ -62,7 +53,8 @@ lang: ftd
 
 \-- ds.page.body:
 
-If you want to show right-sidebar on your page, you can add it like the sidebar shown in this page 👉.
+If you want to show right-sidebar on your page you can add it like sidebar shown
+in this page 👉.
 
 \-- ds.h3: Read right-sidebar documentation
 
