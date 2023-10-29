@@ -4,9 +4,6 @@ sidebar: true
 -- ds.page.right-sidebar:
 
 -- ds.h3: Her-Health
-style: "color: #FF69B4;"  # Set the color for the heading
-font-size: 20px;          # Set the font size for the heading
-
 Welcome to Her-Health, your all-in-one women's health platform.
 
 Here's what we offer:
@@ -45,8 +42,7 @@ sidebar: true
 \-- ds.page.right-sidebar:
 
 \-- ds.h3: Her-Health
-style: "color: #FF69B4;"  # Set the color for the heading
-font-size: 20px;          # Set the font size for the heading
+
 
 Welcome to Her-Health, your all-in-one women's health platform.
 
